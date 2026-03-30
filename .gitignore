@@ -1,1 +1,6 @@
 docs/planning.md
+docs/todo.md
+.venv/
+.env
+__pycache__/
+*.pyc
